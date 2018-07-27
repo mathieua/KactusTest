@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "General Sticker Sheet V.02"
+    "string": "General Sticker Sheet V.03"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -48,12 +48,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 59,
-    "width": 533,
+    "height": 53,
+    "width": 524,
     "x": 200,
     "y": 366
   },
-  "glyphBounds": "{{0, 0}, {524, 53}}",
+  "glyphBounds": "{{2, 8}, {519, 35}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +63,7 @@
   "lineSpacingBehaviour": 0,
   "name": "GENERAL STICKER SHEET",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
