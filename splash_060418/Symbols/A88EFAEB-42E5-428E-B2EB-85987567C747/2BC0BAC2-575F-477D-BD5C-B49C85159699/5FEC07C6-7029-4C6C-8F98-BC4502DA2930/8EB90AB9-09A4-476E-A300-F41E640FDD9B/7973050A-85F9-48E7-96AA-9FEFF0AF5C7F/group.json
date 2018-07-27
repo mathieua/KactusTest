@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "7973050A-85F9-48E7-96AA-9FEFF0AF5C7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C047792-6B9B-41F4-A78C-F24DE6CB56B0",
+    "height": 42,
+    "width": 27,
+    "x": 0,
+    "y": 1.42e-14
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A2272E7-B12A-4403-B1FE-87A89D328B33"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "63833559-740A-4E5D-BBED-C99A60C4B51D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F38693BA-F29A-41BC-BB87-5FCBA1467462"
+    }
+  ],
+  "name": "door",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D01FB994-F187-4CBD-962B-1ED96B5D107C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.299754299754299,
+      "type": 0
+    },
+    "do_objectID": "E0FA186E-7F41-4129-991C-998B270D67AF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "39EA8E44-3FDA-4FCE-B268-9D9D39C29526",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B87AF1D3-449D-4113-8745-C041A9F3EEC9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9320617-EDC0-42E6-93CE-F4C42661329C",
+    "height": 216,
+    "width": 216,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C13A8E8D-F5C0-446B-AF2B-0C8ECEF35695"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7D1E799A-6810-4896-AA4F-38A76CEF8824"
+    }
+  ],
+  "name": "ic_foreground",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F65E774-8040-4E13-B0F3-ED2906F973F8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

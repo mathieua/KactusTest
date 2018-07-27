@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "6329BF6F-C668-42DC-825C-2C07545D181B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 86.99999999999999,
+    "width": 60,
+    "x": 67.63636363636365,
+    "y": 20.86363636363636
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "937AF8CA-7C9B-4752-A43E-6B1F97062C84"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38E815D6-B0D2-445C-A492-FA3072C484DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7E94E7D-F050-4F64-95D4-99777B38BE83"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "55B5EAB0-9BAF-491C-98B3-ED4618F3D2B0"
+    }
+  ],
+  "name": "envelope",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.566977886977888,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

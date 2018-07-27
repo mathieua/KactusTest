@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "F4FFC5A2-2593-4C52-B26D-95CA44D971B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F559FB3-B5F2-44DF-A818-B65492C94FB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2D0ADA37-5245-414C-B991-91C253A592D6",
+    "height": 78,
+    "width": 101,
+    "x": -37.18181818181847,
+    "y": 2.29998779296875
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "345FB0A5-F4DE-4E9B-A291-14AC993C7815"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0E527941-014D-4327-8E32-533CD1D3A950"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "211E47EE-3BEA-4DD4-88FF-4505E3747A49"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ED13FC0F-D203-4AEA-8AA6-C8CE4FEAA184"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "848102BD-85FB-4E32-889A-A4DC276ECF71"
+    }
+  ],
+  "name": "Union App Logo (1)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7EDD08C4-25B5-42F7-BD93-7C8E6AAADD6F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.1,
+      "type": 0
+    },
+    "do_objectID": "F285B74B-4829-407C-B00D-1B185A0AFC39",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "A7142841-198F-4F7E-B763-EDF22E097895",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "281640E8-CA66-4904-AA7C-16A6686C3FFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D07F0F1-3A09-4C2F-9499-FD082F354E38",
+    "height": 84,
+    "width": 57,
+    "x": 69.63636363636365,
+    "y": 20.86363636363637
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9FD5EC5C-AC45-4752-9413-6053F97C4C49"
+    },
+    {
+      "class": "group",
+      "id": "8C2DA102-89BF-46BA-AEAC-49E38D18BA57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF72C211-E348-4730-B78E-A81423A3AEF4"
+    }
+  ],
+  "name": "envelope",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "499BFE84-BF55-42D7-BD4D-86F37BBC0FE8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.566977886977888,
+      "type": 0
+    },
+    "do_objectID": "F98DAA90-DB5A-4B71-B807-606FF166F8BF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
